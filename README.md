@@ -8,6 +8,7 @@
 - [Data Cleaning/Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- [Dashboard](#dashboard)
 - [Results](#results)
 - [Recommendations](#recommendations)
 - [Acknowledgement](#acknowledgement)
@@ -87,8 +88,8 @@ LEFT JOIN retail.weather w USING(date)
 
 This project was completed as part of a tutorial. I want to give full credit to the original creator.
 
-* **Author:** [[YouTuber's Name or Channel Name](https://www.youtube.com/@absentdata)]
-* **Tutorial:** [[Link to the exact YouTube video or playlist](https://www.youtube.com/watch?v=Hh5-Y_6v5iU&list=PLi5spBcf0UMXfbMt1X2bHQkk7mHXkTUhs&index=9)]
+* **Author:** [[Absent Data](https://www.youtube.com/@absentdata)]
+* **Tutorial:** [[Tutorial Link](https://www.youtube.com/watch?v=Hh5-Y_6v5iU&list=PLi5spBcf0UMXfbMt1X2bHQkk7mHXkTUhs&index=9)]
 
 My goal in completing this project was to familiarize myself with MySQL, PowerBI, and GitHub.
 
