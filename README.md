@@ -71,6 +71,10 @@ FROM retail.sales s
 LEFT JOIN retail.survey su USING(date) 
 LEFT JOIN retail.weather w USING(date)
 ```
+### Dashboard
+<img width="1516" height="852" alt="Screenshot 2025-11-21 141622" src="https://github.com/user-attachments/assets/c1d4af85-0b07-4043-aefa-285d56157eee" />
+
+
 
 ### Results
 
